@@ -4,7 +4,6 @@
       {
           "name": "app",
           "image": "<IMAGE1_NAME>",
-          "cpu": 0,
           "portMappings": [
               {
                   "containerPort": 8080,
